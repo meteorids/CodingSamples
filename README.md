@@ -1,5 +1,5 @@
 ### AccuRT_datagen_ozone.m
-This is a code for simulation automatization. Most recently its been used with AccuRT to create training data for my neural network.
+This is a code for simulation automatization. Most recently it has been used with AccuRT to create training data for my neural network.
 A new, python version of this code is under way that will be way more flexible and will provide more adjustable options.
 
 ### NILU-data-process.ipynb
